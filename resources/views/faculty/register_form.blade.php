@@ -1,0 +1,1 @@
+<h1>Registro De Facultades</h1>
